@@ -1,0 +1,30 @@
+Start testing: Jun 06 12:09 HKT
+----------------------------------------------------------
+1/1 Testing: HelloGTest
+1/1 Test: HelloGTest
+Command: "/home/dllm/Documents/deepblue/labs/build/gtest_sayhello"
+Directory: /home/dllm/Documents/deepblue/labs/build
+"HelloGTest" start time: Jun 06 12:09 HKT
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HelloTest
+[ RUN      ] HelloTest.test_sayhello
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+I0606 12:09:51.144513 209578 hello.cpp:5] Hello SLAM
+[       OK ] HelloTest.test_sayhello (0 ms)
+[----------] 1 test from HelloTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"HelloGTest" end time: Jun 06 12:09 HKT
+"HelloGTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 06 12:09 HKT

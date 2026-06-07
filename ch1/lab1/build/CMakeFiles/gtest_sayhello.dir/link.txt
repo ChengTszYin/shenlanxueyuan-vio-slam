@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/gtest_sayhello.dir/gtest_hello.cpp.o  -o gtest_sayhello  -Wl,-rpath,/home/dllm/Documents/deepblue/labs/build libhello.so -lgtest -lpthread -lpthread -lglog 

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/hello.h
+
+/home/dllm/Documents/deepblue/labs/useHello.c
+hello.h
+/home/dllm/Documents/deepblue/labs/hello.h
+gflags/gflags.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/bal_data.dir/bal_data.cpp.o  -o ../bal_data  -Wl,-rpath,/usr/local/lib libbal_common.a /usr/local/lib/libg2o_solver_csparse.so.0.2.0 /usr/local/lib/libg2o_csparse_extension.so.0.2.0 -lcxsparse /usr/local/lib/libSophus.so /usr/local/lib/libg2o_core.so.0.2.0 /usr/local/lib/libg2o_stuff.so.0.2.0 -lrt /usr/lib/x86_64-linux-gnu/libcxsparse.so 
